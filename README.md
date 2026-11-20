@@ -1,4 +1,40 @@
-## Hi there 👋
+# Hi, I'm Sujith Kumar Jittuka
+
+### Entry-Level SOC Analyst | Python · MITRE ATT&CK · Wireshark · Nmap
+
+I build security tools that help analysts detect, triage and investigate threats: log parsing, brute-force and phishing detection, and incident reporting.
+
+Currently: completing my M.S. in Cybersecurity (Virginia University of Science and Technology, 2026) and seeking entry-level SOC / cybersecurity analyst roles.
+
+## About me
+- **Focus:** SOC operations, threat detection, incident response, phishing analysis
+- **Strengths:** Python security tooling, log analysis, network traffic analysis, cryptography
+- **Exploring:** Cloud security (AWS), detection engineering
+
+## Selected projects
+| Project | What I built | Proof |
+| --- | --- | --- |
+| SOC Analyst Toolkit (capstone) | 11 Python tools to parse logs, detect brute-force/phishing, extract IOCs, map to MITRE ATT&CK, and report via a triage dashboard | [REPO LINK] |
+| Suspicious Login Detection | Detects impossible travel, unusual login hours, and unfamiliar devices/locations | [REPO LINK] |
+| Phishing Defense Lab | Kali / Metasploitable 2 lab studying post-phishing compromise and lateral movement, with Nmap, enum4linux, Metasploit and Wireshark analysis | [REPO LINK] |
+| AES-256-GCM Encryption Tool | GUI/CLI file and text encryption with scrypt key derivation, random nonces and tamper detection | [REPO LINK] |
+
+## Technical toolkit
+**Security:** Kali Linux, Nmap, Metasploit, Wireshark, MITRE ATT&CK, Vulnerability Assessment, Digital Forensics
+**Languages:** Python, C, SQL
+**Cloud & systems:** AWS (EC2, S3, Lambda), Linux, Docker
+**Data:** Pandas, NumPy, Scikit-learn
+
+## Certifications and training
+- **Full Stack Python Programming**, PythonLife (2026), completed
+- **Foundations of Cybersecurity (Google Cybersecurity Certificate)**, Coursera (in progress)
+
+## Job simulations
+- AIG Cybersecurity Simulation (Forage), 2025
+- Mastercard Security Awareness Simulation (Forage), 2025
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/sujith-jittuka-961150243) | [Email](mailto:sujithjittuka@gmail.com)
 
 <!--
 **JittukaSujith/JittukaSujith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
