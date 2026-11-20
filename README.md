@@ -15,7 +15,7 @@ Currently: completing my M.S. in Cybersecurity (Virginia University of Science a
 | Project | What I built | Proof |
 | --- | --- | --- |
 | SOC Analyst Toolkit (capstone) | 11 Python tools to parse logs, detect brute-force/phishing, extract IOCs, map to MITRE ATT&CK, and report via a triage dashboard | [Repo] https://github.com/JittukaSujith/soc-triage-toolkit |
-| Cyber Toolkit | 16 Python security tools covering phishing/URL analysis, email authentication, TLS and header audits, JWT inspection and AES-GCM encryption | [Repo](https://github.com/JittukaSujith/cyber-toolkit) |
+| Cyber Toolkit | 16 Python security tools covering phishing/URL analysis, email authentication, TLS and header audits, JWT inspection and AES-GCM encryption | [Repo] https://github.com/JittukaSujith/cyber-toolkit |
 
 ## Technical toolkit
 **Security:** Kali Linux, Nmap, Metasploit, Wireshark, MITRE ATT&CK, Vulnerability Assessment, Digital Forensics
