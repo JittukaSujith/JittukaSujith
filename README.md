@@ -14,10 +14,8 @@ Currently: completing my M.S. in Cybersecurity (Virginia University of Science a
 ## Selected projects
 | Project | What I built | Proof |
 | --- | --- | --- |
-| SOC Analyst Toolkit (capstone) | 11 Python tools to parse logs, detect brute-force/phishing, extract IOCs, map to MITRE ATT&CK, and report via a triage dashboard | [REPO LINK] |
-| Suspicious Login Detection | Detects impossible travel, unusual login hours, and unfamiliar devices/locations | [REPO LINK] |
-| Phishing Defense Lab | Kali / Metasploitable 2 lab studying post-phishing compromise and lateral movement, with Nmap, enum4linux, Metasploit and Wireshark analysis | [REPO LINK] |
-| AES-256-GCM Encryption Tool | GUI/CLI file and text encryption with scrypt key derivation, random nonces and tamper detection | [REPO LINK] |
+| SOC Analyst Toolkit (capstone) | 11 Python tools to parse logs, detect brute-force/phishing, extract IOCs, map to MITRE ATT&CK, and report via a triage dashboard | https://github.com/JittukaSujith/soc-triage-toolkit |
+| Phishing Defense Lab | Kali / Metasploitable 2 lab studying post-phishing compromise and lateral movement, with Nmap, enum4linux, Metasploit and Wireshark analysis | https://github.com/JittukaSujith/Cyber-Toolkit |
 
 ## Technical toolkit
 **Security:** Kali Linux, Nmap, Metasploit, Wireshark, MITRE ATT&CK, Vulnerability Assessment, Digital Forensics
